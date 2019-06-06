@@ -4,4 +4,4 @@ This repository contains programs produced by students under Dr. Huidae Cho's su
 
 ## License
 
-Individual students hold the copyright to their programs unless otherwise stated in each file.
+Individual students hold the copyright to their own programs unless otherwise stated in each file.
